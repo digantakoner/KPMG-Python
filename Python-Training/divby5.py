@@ -6,5 +6,5 @@ for i in range(0, n):
 print(num)
 print("divisable by 5:")
 for i in range(0, n):
-    if (lst[i]%5==0):
+    if (num[i]%5==0):
         print (num[i])
